@@ -355,6 +355,13 @@
             "opensource": "",
             "qrcode": "",
             "company": ""
+       }, {
+            "name": "转转二手交易网",
+            "email": "lixianfeng@zhuanzhuan.com",
+            "link": "http://zhuanzhuan.58.com/",
+            "opensource": "",
+            "qrcode": "https://img.58cdn.com.cn/zhuanzhuan/zzwa/common/qrcode.jpg",
+            "company": "北京转转精神科技有限责任公司"
        }
     ]
 }
